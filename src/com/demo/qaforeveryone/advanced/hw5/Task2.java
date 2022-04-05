@@ -17,6 +17,8 @@ public class Task2 {
                 System.out.print(i1);
 
             System.out.println();
+
         }
+        System.out.println("dkfndjfhdjfhdjfh");
     }
 }
